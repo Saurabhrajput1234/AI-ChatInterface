@@ -49,9 +49,9 @@ export function MessageList({
           <div className="mt-4 text-xs opacity-70">
             <p>💡 Try asking:</p>
             <ul className="mt-2 space-y-1">
-              <li>"What can you help me with?"</li>
-              <li>"Tell me a joke"</li>
-              <li>"How does this chat work?"</li>
+              <li>&ldquo;What can you help me with?&rdquo;</li>
+              <li>&ldquo;Tell me a joke&rdquo;</li>
+              <li>&ldquo;How does this chat work?&rdquo;</li>
             </ul>
           </div>
         </div>
