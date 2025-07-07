@@ -44,16 +44,7 @@ export function MessageList({
     return (
       <div className="flex-1 flex items-center justify-center p-4">
         <div className="text-center text-muted-foreground max-w-sm">
-          <h3 className="text-lg font-semibold mb-2">Welcome to AI Chat</h3>
           <p className="text-sm">Start a conversation by typing a message below.</p>
-          <div className="mt-4 text-xs opacity-70">
-            <p>💡 Try asking:</p>
-            <ul className="mt-2 space-y-1">
-              <li>&ldquo;What can you help me with?&rdquo;</li>
-              <li>&ldquo;Tell me a joke&rdquo;</li>
-              <li>&ldquo;How does this chat work?&rdquo;</li>
-            </ul>
-          </div>
         </div>
       </div>
     );
