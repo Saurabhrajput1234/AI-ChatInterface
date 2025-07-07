@@ -70,14 +70,14 @@ export function Sidebar({ onClearChat, className }: SidebarProps) {
           </div>
 
           {/* Sidebar footer */}
-          <div className="border-t p-4">
+          <div className="border-t p-[1.37rem]">
             <div className="flex items-center gap-2 px-2 py-1 text-sm font-medium text-muted-foreground">
               <Settings className="h-4 w-4" />
               Settings
             </div>
-            <p className="px-2 text-xs text-muted-foreground">
+            {/* <p className="px-2 text-xs text-muted-foreground">
               AI Chat Interface v1.0
-            </p>
+            </p> */}
           </div>
         </div>
       </aside>

@@ -17,7 +17,7 @@ export function useWebSocket(): UseWebSocketReturn {
     
     // Simulate WebSocket connection
     setTimeout(() => {
-      const shouldConnect = Math.random() > 0; // 90% success rate
+      const shouldConnect = Math.random() > 0.1; // 90% success rate
       
       if (shouldConnect) {
         setIsConnected(true);
