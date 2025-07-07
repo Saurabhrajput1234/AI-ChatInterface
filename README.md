@@ -17,7 +17,7 @@ A chat app built with Next.js, React, TypeScript, and Tailwind CSS.
 ## Installation
 1. Clone the repository
    ```bash
-   git clone (https://github.com/Saurabhrajput1234/AI-ChatInterface.git)
+   git clone https://github.com/Saurabhrajput1234/AI-ChatInterface.git
    cd frontend-intern-assignment
    ```
 2. Install dependencies
