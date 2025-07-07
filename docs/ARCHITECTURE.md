@@ -32,9 +32,3 @@ This project uses React, Next.js 14+, and TypeScript. The code is organized by c
 
 - All buttons and inputs have labels
 - Keyboard navigation is supported
-
-## Testing
-
-- Unit tests for components
-- Integration tests for data flow
-- E2E tests for user workflows 
